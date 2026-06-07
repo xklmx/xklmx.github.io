@@ -25,7 +25,7 @@ table#player.table div.xlarge {
 
 .container.main::before {
         content: "";
-        background-image: url("https://static.lioden.com/images/explorenew/locust/blackcubDAY.png");
+        background-image: url("https://i.imgur.com/s1CUblO.png");
         background-size: cover;
         position: fixed;
         display: block;
