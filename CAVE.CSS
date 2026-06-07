@@ -31,7 +31,7 @@ table#player.table div.xlarge {
         display: block;
         height: 450px;
         width: 550px;
-        right: 10%;
+        right: 5%;
         bottom: -120px;
         z-index: 50;
         pointer-events: none;
