@@ -29,10 +29,10 @@ table#player.table div.xlarge {
         background-size: cover;
         position: fixed;
         display: block;
-        height: 450px;
-        width: 550px;
+        height: 294px;
+        width: 350px;
         right: 10%;
-        bottom: -120px;
+        bottom: 0px;
         z-index: 20;
         pointer-events: none;
 }
