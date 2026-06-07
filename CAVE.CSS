@@ -5507,3 +5507,72 @@ div.cave-grid>img /* Pregnant Lionesses */ {
     box-shadow: 0 0 2vw 0.4vw yellow;
   }
 }
+
+
+
+/*CAVES*/
+
+
+
+/* featured lion section */
+.featured-lion {
+    background: rgba(217,195,154, 0) !important;
+    color: #8c6d46 !important;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 1px var(--borderColor), 1px 1px 3px #8c6d46;
+    filter: brightness(100%) opacity(90%);
+        transition: 0.5s !important;
+}
+.featured-lion:hover {
+        filter: brightness(100%) opacity(100%);
+
+}
+
+.featured-lion img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+/* featured lion background image */
+.featured-lion img[src$='//static.lioden.com/images/cave/default.png'] {
+    content: url('https://static.lioden.com/images/dynamic/backgrounds/nothing.png') !important;
+    /* filter: none; */
+}
+
+/* very important if you want it to not look ugly anymore lol don't change the padding here or the media queries at the bottom */
+.featured-lion .b {
+    padding-top: 8px;
+}
+
+.featured-lion a:hover,
+.featured-lion a:focus {
+    color: #302517;
+}
+
+.featured-lion a:link,
+.featured-lion a:active,
+.featured-lion a:visited {
+    color: #302517;
+}
+
+/* owned by text */
+h1.center>small,
+h1.center>small a:hover,
+h1.center>small a:focus {
+    color: #302517 !important;
+}
+
+/* every other lion in caves */
+.table .right {
+    background: rgba(168,143,103, 0.5);
+}
+
+.table .right_odd {
+    background: rgba(168,143,103, 0.3);
+}
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+	color: #302517;
+	border-bottom: 0px;
+}
+
