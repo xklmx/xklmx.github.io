@@ -32,7 +32,7 @@ table#player.table div.xlarge {
         height: 294px;
         width: 350px;
         right: 6%;
-        bottom: -2px;
+        bottom: -8px;
         z-index: 15;
         pointer-events: none;
 }
