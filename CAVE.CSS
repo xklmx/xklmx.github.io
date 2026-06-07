@@ -31,9 +31,9 @@ table#player.table div.xlarge {
         display: block;
         height: 294px;
         width: 350px;
-        right: 10%;
-        bottom: 0px;
-        z-index: 20;
+        right: 5%;
+        bottom: -15px;
+        z-index: 10;
         pointer-events: none;
 }
 
@@ -965,8 +965,8 @@ div.cave-grid>img /* Pregnant Lionesses */ {
     background-size: 100%;;
     background-position: center;
     position: fixed;
-    z-index: 9999;
-    margin-right: -250px;
+    z-index: -20;
+    right: -20%;
     top: 0px;
     pointer-events: none;
 
