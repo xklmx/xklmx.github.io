@@ -22,8 +22,6 @@ table#player.table div.xlarge {
 }
 
 
-}
-
 
 .container.main::before {
         content: "";
@@ -66,7 +64,7 @@ table#player.table div.xlarge {
 body {
 	background: url('https://static.lioden.com/images/dynamic/backgrounds/zaxmistybaobabs.png') center center fixed;
 	background-size: 100%;
-	font-family: 'Quicksand';
+	font-family: 'FONT-NAME';
 	color: #302517
 }
 
