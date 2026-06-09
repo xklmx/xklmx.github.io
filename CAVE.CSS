@@ -61,7 +61,7 @@ table#player.table div.xlarge {
 /* BACKGROUND */
 
 
-body {
+.body {
 	background: url('https://static.lioden.com/images/dynamic/backgrounds/zaxmistybaobabs.png') center center fixed;
 	background-size: 100%;
 	font-family: 'FONT-NAME';
