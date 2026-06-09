@@ -22,14 +22,6 @@ table#player.table div.xlarge {
 }
 
 
-.quicksand-<uniquifier> {
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-}
-
-
 }
 
 
@@ -47,6 +39,18 @@ table#player.table div.xlarge {
         pointer-events: none;
 
 }
+
+
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+
 
 
 /* FONT (From Google Fonts) */
