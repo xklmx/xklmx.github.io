@@ -21,6 +21,14 @@ table#player.table div.xlarge {
     margin-top: 10px !important; 
 }
 
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+}
 
 
 .container.main::before {
@@ -40,7 +48,7 @@ table#player.table div.xlarge {
 /* FONT (From Google Fonts) */
 
 
-@import url('FONT URL');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 
 /* BACKGROUND */
@@ -49,7 +57,7 @@ table#player.table div.xlarge {
 body {
 	background: url('https://static.lioden.com/images/dynamic/backgrounds/zaxmistybaobabs.png') center center fixed;
 	background-size: 100%;
-	font-family: 'FONT NAME';
+	font-family: 'Quicksand';
 	color: #302517
 }
 
@@ -239,7 +247,7 @@ h1 {
 	color: #8c7a43;
 	font-size: 30px;
 	text-align: center;
-        font-family: 'FONT NAME'
+        font-family: 'Quicksand'
 }
 
 
@@ -272,7 +280,7 @@ h3 {
 .sidebar h3 {
 	color: #8c7a43 !important;
         font-size: 26px !important;
-        font-family: 'FONT NAME'
+        font-family: 'Quicksand'
 }
 
 
